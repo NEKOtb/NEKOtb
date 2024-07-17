@@ -2,8 +2,6 @@ i'm learning and make some little ideas✨
 
 
 ## 🌐 Socials:
-<p align="left"> <a href="https://x.com/NEKOtbb" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" width="20" height="20"/> </a> NEKOtbb <p/>
-
   
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NEKOtbb)
   
