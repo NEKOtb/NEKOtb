@@ -16,7 +16,7 @@ i'm learning and make some little ideas✨
 
 ---
 
-![Fenumi Creator](FOCvue/Fenumi.png)
+![Fenumi Creator](/FOCvue/Fenumi.png)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
