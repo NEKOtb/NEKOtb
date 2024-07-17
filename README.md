@@ -2,9 +2,8 @@ i'm learning and make some little ideas✨
 
 
 ## 🌐 Socials:
-<div> <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  NEKOtbb <div/>
+<p align="left">   NEKOtbb <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+
   
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NEKOtbb)
   
