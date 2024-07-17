@@ -2,7 +2,7 @@ i'm learning and make some little ideas✨
 
 
 ## 🌐 Socials:
-<p align="left">   NEKOtbb <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://x.com/NEKOtbb" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" width="40" height="40"/> </a> NEKOtbb <p/>
 
   
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NEKOtbb)
