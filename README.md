@@ -18,7 +18,7 @@ i'm learning and make some little ideas✨
 
 # 💻 My current project:
 
-![Fenumi Creator](https://raw.githubusercontent.com/NEKOtb/Fenumi-Creator/blob/master/Fenumi.png)
+![Fenumi Creator](https://github.com/NEKOtb/Fenumi-Creator/blob/master/Fenumi.png)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
