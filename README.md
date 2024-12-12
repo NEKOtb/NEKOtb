@@ -19,9 +19,8 @@ i'm learning and make some little ideas✨
 
 ---
 
-# 💻 My current project:
+<!-- # 💻 My current project: -->
 
-![Fenumi Creator](https://github.com/NEKOtb/NEKOtb/blob/main/TabsJourney.png)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
